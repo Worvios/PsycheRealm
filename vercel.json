@@ -6,8 +6,10 @@
   "framework": "nextjs",
   "regions": ["iad1"],
   "env": {
-    "NEXT_PUBLIC_SANITY_PROJECT_ID": "@sanity_project_id",
-    "NEXT_PUBLIC_SANITY_DATASET": "@sanity_dataset",
-    "SANITY_API_TOKEN": "@sanity_api_token"
+    
+    "NEXT_PUBLIC_SANITY_PROJECT_ID":"5d90cg88",
+"NEXT_PUBLIC_SANITY_DATASET":"production",
+"SANITY_API_TOKEN":"sk200Ie796Vl4JW0Sp5J3mpzB0eosqxQWAZzOXaXDQOjrmtFxdBTi0e96j8lTvcslhXdnppzwH5d4a9rJNxeGignQWr3hzQwe0guxIT50Sek0NGXfCHcqWoRF804cSKp4fLN81rVusb28YRiNHmjPEF4M667SLFglzvtd3PG23HLNKyGL14z"
+  
   }
 } 
